@@ -13,7 +13,7 @@ export default function Home({ allPostsData = [] }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>[这是我的第一个Vercel Next app]</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://www.nextjs.cn/learn">our Next.js tutorial</a>.)
